@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dati e file grandi (IMPORTANTE!)
+*.npy
+*.npz
+*.msi
+*.csv
+*.json
+*.h5
+*.pkl
+normalization_*
+X_train.npy
+Y_train.npy
+BTCUSDT-trades-202*
+
+# File di sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE e editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
