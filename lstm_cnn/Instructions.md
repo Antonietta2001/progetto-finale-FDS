@@ -1,4 +1,4 @@
-In this folder you can find some input files and some output files related to the Python script `lstm_cnn_trainer.py`.
+In this folder you can find input files and output files related to the Python script `lstm_cnn_trainer.py`.
 It was not possible to include all of them due to GitHub file size restrictions.
 Below is the complete list of input and output files.
 After that, you can find a list of Python packages to install.
