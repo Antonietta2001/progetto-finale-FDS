@@ -23,7 +23,7 @@ corresponding script. Each folder contains as many input and output files as pos
 to that script. Some files are unfortunately omitted due to GitHub file size restrictions and
 can either be obtained by running the scripts or requested via email
 (matteorog05@gmail.com).
-A detailed list of features and a set of summary plots related to the neural network training process are provided in the main script.
+A detailed list of features and a set of summary plots related to the neural network training process are provided in the main.
 
 
 <p align="center">
