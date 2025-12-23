@@ -1,9 +1,9 @@
-In this folder you can find (some) input files and (some) output files related to the Python script data_processing.py.
+In this folder you can find input files and output files related to the Python script data_processing.py.
 It was not possible to include all of them due to GitHub file size restrictions.
 In any case, below you can find the complete list of input and output files.
-After that, there is a list of packages to import.
+After that, there is a list of packages to install.
 
-INPPUT FILES (all missing from the folder):
+INPUT FILES (not included):
 - BTCUSDT-trades-2023-03.zip
 - BTCUSDT-trades-2023-04.zip
 - BTCUSDT-trades-2023-05.zip
@@ -27,7 +27,7 @@ INPPUT FILES (all missing from the folder):
 - BTCUSDT-trades-2024-11.zip
 - BTCUSDT-trades-2024-12.zip
 
-OUTPUT FILES (mostly missing):
+OUTPUT FILES (partially included):
 - processed_data_DIRECTIONAL_2023_2024_FULLSPAN.parquet
 - X_all_DIRECTIONAL_2023_2024_FULLSPAN.npy
 - Y_all_DIRECTIONAL_2023_2024_FULLSPAN.npy
