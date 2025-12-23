@@ -1,0 +1,13 @@
+{
+  "best_conf": {
+    "cnn_filters": 64,
+    "lstm_units_1": 96,
+    "lstm_units_2": 32,
+    "dropout": 0.3,
+    "initial_lr": 0.001,
+    "batch_size": 1024
+  },
+  "best_val_auc": 0.7817670106887817,
+  "horizon": "H10",
+  "strategy": "Random search: fit TRAIN, select on OPTIMIZE. TEST used only at the end."
+}

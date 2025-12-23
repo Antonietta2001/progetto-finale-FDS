@@ -1,0 +1,48 @@
+{
+  "threshold": 0.5,
+  "hyperparams": {
+    "cnn_filters": 64,
+    "lstm_units_1": 96,
+    "lstm_units_2": 32,
+    "dropout": 0.3,
+    "initial_lr": 0.001,
+    "batch_size": 1024
+  },
+  "optimize_metrics": {
+    "accuracy": 0.7065186594349551,
+    "auc": 0.7886178594486659,
+    "precision": 0.7106148176490726,
+    "recall": 0.7068709935897436,
+    "f1": 0.7087379615774727
+  },
+  "test_metrics": {
+    "accuracy": 0.7080964456623993,
+    "auc": 0.7907880945978296,
+    "precision": 0.7192932226266923,
+    "recall": 0.7035384953893545,
+    "f1": 0.7113286345572398
+  },
+  "profitable_test": true,
+  "dataset_prefix": "CORRECT_H10",
+  "horizon": {
+    "bars": 10,
+    "minutes": 5.0
+  },
+  "split_strategy": "Correct splits: TRAIN (Jan23-Jun24), OPTIMIZE (Jul-Sep24), TEST/Q4 (Oct-Dec24).",
+  "files_used": {
+    "train_seq": [
+      "X_train_CORRECT.npy",
+      "Y_train_CORRECT.npy"
+    ],
+    "parquets": [
+      "data_train_CORRECT.parquet",
+      "data_optimize_CORRECT.parquet",
+      "data_test_CORRECT.parquet"
+    ],
+    "normalization": [
+      "normalization_mean_CORRECT.npy",
+      "normalization_std_CORRECT.npy"
+    ],
+    "feature_list": "feature_list_CORRECT.txt"
+  }
+}
