@@ -1,4 +1,4 @@
-In this folder you can find input files and output files related to the Python script 'data_processing.py'.
+In this folder you can find input files and output files related to the Python script `data_processing.py`.
 It was not possible to include all of them due to GitHub file size restrictions.
 In any case, below you can find the complete list of input and output files.
 After that, there is a list of packages to install.
