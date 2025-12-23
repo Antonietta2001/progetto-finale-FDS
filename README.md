@@ -1,4 +1,7 @@
 # MARKET-HEARTBEAT
+![presentazione](progetto-finale-FDS/imag/presentazione.png)
+
+
 This quantitative intraday trading project is proposed to work with a great amount of data. Due to file size restriction imposed by github all the zipped data files are absent in the repository. It is possible  to download them by the official binance website using this path: Home / data / futures / um / monthly / trades / BTCUSDT (https://data.binance.vision/?prefix=data/futures/um/monthly/trades/BTCUSDT). For the purpose  of the research is necessary to work with all the BTCUSDT-trades-year-month files from March 2023 (BTCUSDT-trades-2023-03.zip) to December 2024 (BTCUSDT-trades-2024-12.zip). 
 
  The right order of execution of the .py files is the sequent:
