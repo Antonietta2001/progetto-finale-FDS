@@ -3,7 +3,7 @@ It was not possible to include all of them due to GitHub file size restrictions.
 In any case, below you can find the complete list of input and output files.
 After that, there is a list of packages to import.
 
-INPPUT FILES:
+INPPUT FILES (all missing from the folder):
 - BTCUSDT-trades-2023-03.zip
 - BTCUSDT-trades-2023-04.zip
 - BTCUSDT-trades-2023-05.zip
@@ -27,7 +27,7 @@ INPPUT FILES:
 - BTCUSDT-trades-2024-11.zip
 - BTCUSDT-trades-2024-12.zip
 
-OUTPUT FILES:
+OUTPUT FILES (mostly missing):
 - processed_data_DIRECTIONAL_2023_2024_FULLSPAN.parquet
 - X_all_DIRECTIONAL_2023_2024_FULLSPAN.npy
 - Y_all_DIRECTIONAL_2023_2024_FULLSPAN.npy
