@@ -3,7 +3,7 @@ It was not possible to include all of them due to GitHub file size restrictions.
 Below is the complete list of input and output files.
 After that, you can find a list of Python packages to install.
 
-INPUT FILES (included):
+INPUT FILES (partially included):
 - processed_data_DIRECTIONAL_2023_2024_FULLSPAN.parquet
 - best_model_CORRECT_H10.keras
 - normalization_mean_CORRECT.npy
